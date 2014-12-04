@@ -1,0 +1,4 @@
+//test classe vide
+class {
+
+}
